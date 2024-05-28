@@ -1,5 +1,8 @@
 **Chicago Crime Report**
 
+**Language Used:**
+R - data visualization using "ggplot", machine learning (linear regression, random forest)
+
 **Dataset:** 
 Chicago Crime Dataset 2020  
 
